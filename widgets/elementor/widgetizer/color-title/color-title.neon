@@ -1,0 +1,13 @@
+title: Color Title
+icon: eicon-code 
+content:
+	general:
+		title:
+			type: text
+			label: Title
+			description: Text field
+			default: Hello world
+		color:
+			type: color
+			label: Color
+			default: #333333
